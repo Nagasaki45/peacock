@@ -14,7 +14,7 @@
 #define SERVO_B_PIN 10
 
 #define MOISTURE_MIN 0
-#define MOISTURE_MAX 960
+#define MOISTURE_MAX 160
 #define PSR_THRESHOLD 600
 
 #define CONTRACTION_REPETITIONS 3  // Number of flashs per contraction
