@@ -1,6 +1,15 @@
 PeaCock
 =======
 
+A [Sex Tech Hack](http://sexhack.tech/) project by:
+
+- Libby Oday
+- Tom Gurion
+- Tom Chambers
+- Lisa E. Rombout
+
+More info available [here](Peacock_SexTechHackPres.pdf).
+
 ## How to run it?
 
 1. Upload the [`sketch`](sketch/sketch.ino) to the arduino.
