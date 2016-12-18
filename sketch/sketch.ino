@@ -33,6 +33,7 @@ int contractionIndex = 0;
 long contractionLastUpdate = 0;
 
 void setup() {
+  Serial.begin(9600);
   servoA.attach(9);
   servoB.attach(10);
 
@@ -65,6 +66,7 @@ void loop() {
 
   // Calculate contraction value
   if (psrValue > PSR_THRESHOLD && contractionIndex == 0) {
+    Serial.print(1);  // Just a bang indication
     contractionIndex = 1;
   }
   if ((contractionIndex != 0) && \
