@@ -8,7 +8,7 @@ A [Sex Tech Hack](http://sexhack.tech/) project by:
 - Tom Chambers
 - Lisa E. Rombout
 
-More info available [here](Peacock_SexTechHackPres.pdf).
+Our presentation from the hackathon is [on youtube](https://www.youtube.com/watch?v=67v4uvlfCMY), and the slides are available [here](Peacock_SexTechHackPres.pdf).
 
 ## How to run it?
 
